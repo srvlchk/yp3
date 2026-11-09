@@ -1,0 +1,12 @@
+#пароли и ключи 
+*.key
+*.pem
+id_rsa*
+.env
+passwords.txt
+flows_cred.json
+
+# Рабочая база SQlite
+*.sqlite
+*.sqlite3
+*.db
